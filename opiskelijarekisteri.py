@@ -28,8 +28,6 @@ def tulosta(opiskelijat, opiskelija):
             print(" keskiarvo", keskiarvo) # Tähän arvosanat-listaan sofistikoituneempi ratkaisu?
     else:
         print(f"ei löytynyt ketään nimellä {opiskelija}")
-    
-    #print(opiskelijat)
 
 def kooste(opiskelijat):
     paras_opiskelija = None
