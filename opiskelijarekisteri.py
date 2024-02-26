@@ -51,6 +51,7 @@ if __name__ == "__main__":
     lisaa_suoritus(opiskelijat, "Pekka", ("Joo", 0))
     lisaa_opiskelija(opiskelijat, "Liisa")
     lisaa_suoritus(opiskelijat, "Liisa", ("Ohpe", 4))
+    lisaa_opiskelija(opiskelijat, "Minna")
     tulosta(opiskelijat, "Pekka")
     tulosta(opiskelijat, "Liisa")
     tulosta(opiskelijat, "Jukka")
