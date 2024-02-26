@@ -55,4 +55,5 @@ if __name__ == "__main__":
     tulosta(opiskelijat, "Pekka")
     tulosta(opiskelijat, "Liisa")
     tulosta(opiskelijat, "Jukka")
+    tulosta(opiskelijat, "Minna")
     kooste(opiskelijat)
